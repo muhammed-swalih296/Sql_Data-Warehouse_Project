@@ -23,6 +23,8 @@ Highlights :
 =================================================================================
 */
 
+DROP VIEW IF EXISTS gold.report_customers
+GO
 
 WITH base_query AS(
 /*
