@@ -172,7 +172,7 @@ This project is licensed under the [MIT License](LICENSE) — free to use, modif
 I'm passionate about transforming raw data into meaningful insights through data analysis, visualization, and storytelling. I enjoy working with datasets, uncovering patterns, and building dashboards that support data-driven decisions.
 
 - 🔗 GitHub: [@muhammed-swalih296](https://github.com/muhammed-swalih296)
-- 💼 LinkedIn: linkedin.com/in/muhammedswalih2
+- 💼 LinkedIn: www.linkedin.com/in/muhammedswalih2
 - 📧 Email: muhammedswalih.mail@gmail.com
 
 > Feel free to explore the repo, raise an issue, or connect — always open to feedback and collaboration on data analytics projects.
